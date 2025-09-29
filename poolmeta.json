@@ -1,0 +1,7 @@
+{
+"name": "Montrasi Stake Pool",
+"description": "Independent stakepool with dRep voting & analysis.",
+"ticker": "TRASI",
+"homepage": "https://montrasi.com/pool",
+"extended": "https://raw.githubusercontent.com/montrasian/pool/refs/heads/main/extended-meta.json"
+}
